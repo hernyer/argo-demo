@@ -6,6 +6,7 @@ ArgoCD instalación y configuración
 
     Videotutorial de argo: https://www.youtube.com/watch?v=eyk5oKK6rDM
     Tutorial de argo: https://blog.baeke.info/2019/12/25/giving-argo-cd-a-spin/
+    Repo de tutorial: https://github.com/gbaeke/argo-demo
     Videotutorial de argo: https://www.youtube.com/watch?v=0WAm0y2vLIo
     Obtener password de argo: https://stackoverflow.com/questions/68297354/what-is-the-default-password-of-argocd
     Repo de argocd: https://github.com/argoproj/argocd-example-apps
