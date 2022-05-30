@@ -66,6 +66,8 @@ Sync app y delete POD.
 
 guestbook-ui-deployment.yaml
 
+La app corré en <http://localhost:80/>
+
 El image: gcr.io/heptio-images/ks-guestbook-demo:0.2 tiene dos versiones para comparar el funcionamiento.
 
     apiVersion: apps/v1
